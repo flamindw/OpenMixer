@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Xcode per-user state
+xcuserdata/
+*.xcuserstate
+
+# Build products (release downloads are attached to GitHub Releases, not committed)
+build/
+dist/
+*.dmg
+DerivedData/
+*.xcarchive
+
+# Swift Package Manager
+.build/
+.swiftpm/
